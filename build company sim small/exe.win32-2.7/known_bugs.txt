@@ -1,0 +1,27 @@
+Company Sim known glitches
+--------------------------
+system:
+
+#12 - the first digit is the type of bug
+ -
+
+#12 - the second and greater digit is the bug ID
+  ->
+--------------------------
+types:
+#1 = mouse related
+#2 = keyboard related
+#3 = crashes
+#4 = save bug
+#5 = load bug
+#6 = rendering bug
+#7 = math bug
+
+--------------------------
+known bugs:
+
+--------------------------
+Fixed bugs:
+
+#11 = checkmark click wont work, rendermode = 'fail'
+#61 = money_logo placed too low, rendermode = 'building', building = 1_3 
