@@ -18,6 +18,8 @@ THIS IS EARLY ACCESS AND IS BUGGY
 how to play and open
 =======
 Run NaturalmotionStudios installer - go to http://installer-download.weebly.com/install-company-sim-v177-exe-876032.html
+or
+Run the installer in the download
 
 If you need help with the controls go here: https://www.youtube.com/watch?v=1PT26gScaBM
 
